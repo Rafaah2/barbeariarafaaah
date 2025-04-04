@@ -18,11 +18,11 @@ body{
 }
 
 .titulo2{
-    color: azure;
+    color: rgb(43, 199, 199);
     font-family: Arial, Helvetica, sans-serif;
 }
 .principal{
-    background-color: rgb(150, 115, 62);
+    background-color: rgb(211, 149, 57);
     padding: 30px;
 
 }
