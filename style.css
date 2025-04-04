@@ -1,14 +1,14 @@
-body{
+body {
     margin: 0px;
     padding: 0px;
     font-family: sans-serif;
 }
 
-#banner{
+#banner {
     width: 100%;
 }
 
-.titulo-principal{
+.titulo-principal {
     text-transform: uppercase;
     text-align: center;
     color: rgb(67, 67, 206);
@@ -17,25 +17,29 @@ body{
     margin: 0px;
 }
 
-.titulo2{
+.titulo2 {
     color: rgb(43, 199, 199);
     font-family: Arial, Helvetica, sans-serif;
 }
-.principal{
+
+.principal {
     background-color: rgb(211, 149, 57);
     padding: 30px;
     margin: 0px;
 
 }
-ul{
+
+ul {
     display: inline-block;
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
 }
-.itens{
+
+.itens {
     font-style: italic;
 }
-.imagembeneficios{
+
+.imagembeneficios {
     width: 50%;
 }
