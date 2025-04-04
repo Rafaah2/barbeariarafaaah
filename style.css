@@ -29,6 +29,12 @@ body {
 
 }
 
+.beneficios{
+    background-color: rgb(175, 18, 141);
+    padding: 30px;
+    margin: 0px;
+}
+
 ul {
     display: inline-block;
     vertical-align: top;
